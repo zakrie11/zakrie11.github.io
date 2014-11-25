@@ -1,0 +1,81 @@
+html, body {
+	font-family: "please write me a song", Myaid, Courier;
+	background-color:grey;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 100%;
+	}
+	
+nav {
+	font-family: "DK Okiku", Myraid, Courier;
+	list-style-type: none;
+	position:relative;
+	text-align:center;
+}
+	
+nav ul li {
+	list-style-type: none;
+	font-size: 2em;
+	padding: 10px;
+	}
+nav li {
+	display:inline;
+	}
+nav ul li a {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+
+header{
+	font-size: 2em;
+	font-family: "DK Okiku", Courier, Shruti;
+	background-color: #800000;
+	text-align: center;
+	padding-bottom:.1em;
+	padding-top:.1em;
+	color:white;
+	margin-left:-.5em;
+	margin-right:-.3em;
+		}
+#main-content {
+	background-color: #2F3D57;
+	color:white;
+	margin: 0 auto;
+	margin-left: -.6em;
+	margin-right: -.6em;;
+	padding-left: 5px;
+	}
+.works{
+	padding-left:10px;
+	padding-top:5px;
+	}
+#school-content {
+	margin: 0 auto;
+	color:white;
+	width: 1000px;
+	}
+	
+#resume {
+	text-align: center;
+	}	
+#resume a{
+	background-color: #2F3D57;
+	color:white;
+	font-size:3em;
+	}
+
+footer {
+	background-color:#800000;
+	font-size:2em;
+	color:white;
+	position:fixed;
+	width:10000px;
+	font-family: "Pistara", Courier, Shruti;
+	
+}
+ul li {
+	list-style-type: none;
+	color:black;
+}
